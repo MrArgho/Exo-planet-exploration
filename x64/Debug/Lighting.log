@@ -1,0 +1,1018 @@
+﻿  main.cpp
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\curve.h(147,37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\curve.h(147,28): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\curve.h(150,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\curve.h(160,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\curve.h(166,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\curve.h(167,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\Sphere.h(130,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\Sphere.h(135,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\Sphere.h(205,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\Sphere2.h(230,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\Sphere2.h(231,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\Sphere2.h(233,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\Sphere2.h(310,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\Sphere2.h(311,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\Sphere2.h(315,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\Sphere2.h(366,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\Sphere2.h(367,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\Sphere2.h(372,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(24,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(97,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(97,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(97,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(98,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(98,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(98,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(99,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(99,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(99,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(100,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(100,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(100,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(101,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(101,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(101,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(102,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(102,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(102,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(103,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(103,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(103,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(104,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(104,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(104,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(105,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(105,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(105,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(106,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(106,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(106,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(107,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(107,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(107,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(108,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(108,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(108,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(134,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(135,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(136,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(137,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(138,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(139,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(140,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(143,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(144,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(145,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(146,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(147,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(148,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(149,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(155,4): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(156,4): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(157,4): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(158,4): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(159,4): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(160,4): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(161,4): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(164,4): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(165,4): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(166,4): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(167,4): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(168,4): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(169,4): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(170,4): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(178,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(178,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(178,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(179,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(179,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(179,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(180,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(180,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(180,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(181,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(181,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(181,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(182,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(182,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(182,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(183,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(183,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(183,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(184,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(184,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(184,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(185,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(185,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(185,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(186,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(186,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(186,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(187,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(187,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(187,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(188,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(188,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(188,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(189,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(189,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(189,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(190,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(190,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(190,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(191,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(191,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(191,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(192,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(192,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(192,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(193,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(193,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(193,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(194,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(194,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(194,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(195,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(195,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(195,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(196,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(196,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(196,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(197,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(197,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(197,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(201,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(201,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(201,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(202,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(202,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(202,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(203,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(203,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(203,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(204,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(204,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(204,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(205,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(205,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(205,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(206,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(206,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(206,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(207,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(207,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(207,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(208,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(208,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(208,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(209,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(209,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(209,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(213,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(213,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(213,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(214,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(214,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(214,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(215,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(215,13): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(215,21): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(218,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(218,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(218,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(219,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(219,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(219,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(220,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(220,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(220,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(221,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(221,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(221,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(222,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(222,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(222,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(223,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(223,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(223,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(224,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(224,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(224,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(225,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(225,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(225,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(226,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(226,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(226,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(227,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(227,11): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(227,19): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(228,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(228,11): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(228,19): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(298,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(699,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(700,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(701,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(819,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(824,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(829,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(834,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(844,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(999,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(1003,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(1007,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(1011,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(1015,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\main.cpp(1019,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  stb_image.cpp
+  Generating Code...
+glfw3.lib(init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(input.obj)' or at ''; linking object as if no debug info
+glfw3.lib(context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_time.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_thread.obj)' or at ''; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(vulkan.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_joystick.obj)' or at ''; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(wgl_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(egl_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(osmesa_context.obj)' or at ''; linking object as if no debug info
+  Lighting.vcxproj -> D:\4.2\lab\Graphics\New folder\Exo-planet-exploration\x64\Debug\Lighting.exe
